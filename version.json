@@ -2,5 +2,5 @@
   "latest_version": "2.6.0",
   "release_date": "2026-10-08",
   "changelog": "- Added Cloud Code Updater\n- Optimized thermal receipt printing\n- General bug fixes and performance enhancements",
-  "download_url": "https://raw.githubusercontent.com/infinty-sl/zenith-oms-updates/main/update_v2.6.0.zip"
+  "download_url": "https://raw.githubusercontent.com/infinty-sl/zenith-oms-updates/main/2.5.zip"
 }
